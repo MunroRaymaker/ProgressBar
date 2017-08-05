@@ -1,0 +1,8 @@
+C:\Dev\Windows\Progress\bin\Debug\netcoreapp1.1\Progress.deps.json
+C:\Dev\Windows\Progress\bin\Debug\netcoreapp1.1\Progress.runtimeconfig.json
+C:\Dev\Windows\Progress\bin\Debug\netcoreapp1.1\Progress.runtimeconfig.dev.json
+C:\Dev\Windows\Progress\bin\Debug\netcoreapp1.1\Progress.dll
+C:\Dev\Windows\Progress\bin\Debug\netcoreapp1.1\Progress.pdb
+C:\Dev\Windows\Progress\obj\Debug\netcoreapp1.1\Progress.AssemblyInfo.cs
+C:\Dev\Windows\Progress\obj\Debug\netcoreapp1.1\Progress.dll
+C:\Dev\Windows\Progress\obj\Debug\netcoreapp1.1\Progress.pdb
